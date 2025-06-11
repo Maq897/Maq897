@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on honestly anything
 - 📫 How to reach me sonofsheik@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i have coded a website purely html css and litlle bit of javascript https:/maq897.github.io/index.html
+- ⚡ Fun fact: I actually enjoy coding...
 
 <!---
 Maq897/Maq897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
