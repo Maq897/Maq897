@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding html , css and javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on honestly anything
-- 📫 How to reach me sonofsheik@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I actually enjoy coding...
 
